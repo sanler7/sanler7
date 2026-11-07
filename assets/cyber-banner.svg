@@ -50,5 +50,5 @@
   <rect x="0" y="0" width="1200" height="3" fill="url(#line)">
     <animate attributeName="y" values="0;357;0" dur="7s" repeatCount="indefinite"/>
   </rect>
-  <text x="1140" y="335" text-anchor="end" fill="#4b807b" font-family="monospace" font-size="11">SANLER7 / PROFILE</text>
+  <text x="1140" y="335" text-anchor="end" fill="#4b807b" font-family="monospace" font-size="11">ALESSANDRO RODRIGO / PROFILE</text>
 </svg>
