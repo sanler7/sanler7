@@ -1,6 +1,6 @@
 <!-- Cybersecurity profile README -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/sanler7/sanler7/main/assets/cyber-banner.svg" alt="Cybersecurity animated banner" width="100%" />
+  <img src="https://raw.githubusercontent.com/sanler7/sanler7/main/assets/cyber-banner.svg?v=2" alt="Cybersecurity animated banner" width="100%" />
 </div>
 
 <div align="center">
@@ -10,7 +10,7 @@
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/sanler7/sanler7/main/assets/terminal-animation.svg" alt="Animated cybersecurity learning terminal" width="88%" />
+  <img src="https://raw.githubusercontent.com/sanler7/sanler7/main/assets/terminal-animation.svg?v=2" alt="Animated cybersecurity learning terminal" width="88%" />
 </div>
 
 <h1 align="center">Alessandro Rodrigo</h1>
