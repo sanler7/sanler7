@@ -30,7 +30,7 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas (ADS)** e estou direci
 
 Tenho interesse em compreender como sistemas, aplicações e redes podem ser protegidos desde sua concepção. Meu objetivo é desenvolver uma base técnica consistente por meio de estudos, laboratórios e projetos práticos.
 
-Acredito que segurança deve fazer parte de todo o ciclo de desenvolvimento — do planejamento à manutenção.
+Acredito que segurança deve fazer parte de todo o ciclo de desenvolvimento do planejamento à manutenção.
 
 ## 🎯 Áreas de interesse
 
