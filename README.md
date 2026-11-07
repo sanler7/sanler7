@@ -9,6 +9,10 @@
   </a>
 </div>
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/sanler7/sanler7/main/assets/terminal-animation.svg" alt="Animated cybersecurity learning terminal" width="88%" />
+</div>
+
 <h1 align="center">Alessandro Rodrigo</h1>
 <h3 align="center">Análise e Desenvolvimento de Sistemas · Foco em Cibersegurança</h3>
 
