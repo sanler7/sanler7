@@ -80,5 +80,5 @@ Quero aprender com desafios reais, colaborar com responsabilidade e contribuir p
 ---
 
 <div align="center">
-  <sub>Estudando, praticando e construindo conhecimento — um projeto de cada vez.</sub>
+  <sub>Estudando, praticando e construindo conhecimento,um projeto de cada vez.</sub>
 </div>
