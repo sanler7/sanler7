@@ -6,9 +6,9 @@
   <rect x="1" y="1" width="998" height="268" rx="16" fill="url(#panel)" stroke="#1b6759" stroke-width="2"/>
   <path d="M1 48H999" stroke="#1b6759"/>
   <circle cx="25" cy="24" r="6" fill="#ff5f57"/><circle cx="47" cy="24" r="6" fill="#febc2e"/><circle cx="69" cy="24" r="6" fill="#28c840"/>
-  <text x="500" y="29" text-anchor="middle" fill="#75a79d" font-family="monospace" font-size="13">SANLER7 — SECURITY LAB / SIMULATION</text>
+  <text x="500" y="29" text-anchor="middle" fill="#75a79d" font-family="monospace" font-size="13">ALESSANDRO RODRIGO — SECURITY LAB / SIMULATION</text>
   <g font-family="monospace" font-size="17">
-    <text x="32" y="91" fill="#00e6a0">sanler7@security-lab:~$</text>
+    <text x="32" y="91" fill="#00e6a0">alessandro@security-lab:~$</text>
     <text x="292" y="91" fill="#d5eee7"> ./learning-path.sh</text>
     <text x="32" y="132" fill="#78a89d">[01]</text><text x="82" y="132" fill="#d5eee7"> Exploring network fundamentals</text>
     <text x="32" y="169" fill="#78a89d">[02]</text><text x="82" y="169" fill="#d5eee7"> Practicing secure development</text>
