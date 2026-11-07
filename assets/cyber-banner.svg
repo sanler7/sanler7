@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-label="Cybersecurity digital network banner">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#050b16"/><stop offset=".55" stop-color="#071b25"/><stop offset="1" stop-color="#07111f"/>
+    </linearGradient>
+    <linearGradient id="line" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#00f5a0" stop-opacity="0"/><stop offset=".5" stop-color="#00f5a0" stop-opacity=".9"/><stop offset="1" stop-color="#00c8ff" stop-opacity="0"/>
+    </linearGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" fill="none" stroke="#1b5360" stroke-opacity=".22" stroke-width="1"/>
+    </pattern>
+    <filter id="glow"><feGaussianBlur stdDeviation="4" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  </defs>
+  <rect width="1200" height="360" rx="22" fill="url(#bg)"/>
+  <rect width="1200" height="360" rx="22" fill="url(#grid)"/>
+  <g fill="none" stroke="#00d99a" stroke-opacity=".3" stroke-width="1.5">
+    <path d="M0 270L190 270L250 210L390 210L450 150L600 150"/>
+    <path d="M1200 82H1030L980 132H870L820 182H730"/>
+    <path d="M1200 290H1080L1020 230H940L900 190"/>
+  </g>
+  <g fill="#00e6a0" filter="url(#glow)">
+    <circle cx="190" cy="270" r="3"/><circle cx="390" cy="210" r="3"/><circle cx="600" cy="150" r="3"/>
+    <circle cx="1030" cy="82" r="3"/><circle cx="870" cy="132" r="3"/><circle cx="730" cy="182" r="3"/>
+  </g>
+  <g transform="translate(870 85)" fill="none" stroke="#00d99a" stroke-opacity=".48">
+    <circle cx="120" cy="95" r="82" stroke-dasharray="5 9"/>
+    <circle cx="120" cy="95" r="60" stroke-dasharray="2 7"/>
+    <path d="M120 2V188M27 95H213"/>
+    <circle cx="120" cy="95" r="35" stroke="#00e6a0" stroke-width="2"/>
+    <path d="M120 95L178 44" stroke="#00e6a0" stroke-width="2"/>
+    <circle cx="178" cy="44" r="5" fill="#00e6a0" filter="url(#glow)"/>
+    <circle cx="120" cy="95" r="3" fill="#00e6a0"/>
+    <circle cx="120" cy="95" r="82" stroke="#00e6a0" stroke-width="2" stroke-dasharray="18 500">
+      <animateTransform attributeName="transform" type="rotate" from="0 120 95" to="360 120 95" dur="18s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+  <g transform="translate(58 58)">
+    <text x="0" y="0" fill="#00e6a0" font-family="monospace" font-size="14" letter-spacing="4">SECURITY • NETWORKS • SOFTWARE</text>
+    <text x="0" y="78" fill="#e8fff7" font-family="Arial, sans-serif" font-size="48" font-weight="700">CYBERSECURITY</text>
+    <text x="2" y="116" fill="#8bb8b4" font-family="Arial, sans-serif" font-size="20">Learning. Building. Securing.</text>
+    <g transform="translate(0 164)" font-family="monospace" font-size="15">
+      <text y="0" fill="#00e6a0">$</text><text x="18" y="0" fill="#c5e6df"> initializing_security_profile</text>
+      <text y="29" fill="#00e6a0">[+]</text><text x="35" y="29" fill="#8bb8b4"> network_monitoring</text>
+      <text y="58" fill="#00e6a0">[+]</text><text x="35" y="58" fill="#8bb8b4"> secure_development</text>
+      <rect x="235" y="-14" width="8" height="19" fill="#00e6a0">
+        <animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/>
+      </rect>
+    </g>
+  </g>
+  <rect x="0" y="0" width="1200" height="3" fill="url(#line)">
+    <animate attributeName="y" values="0;357;0" dur="7s" repeatCount="indefinite"/>
+  </rect>
+  <text x="1140" y="335" text-anchor="end" fill="#4b807b" font-family="monospace" font-size="11">SANLER7 / PROFILE</text>
+</svg>
